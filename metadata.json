@@ -1,0 +1,7 @@
+{
+  "name": "MeetingMind AI",
+  "description": "An enterprise-grade meeting intelligence engine that transforms transcripts into structured, actionable insights using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
